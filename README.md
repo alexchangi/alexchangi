@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Chang
-      - I am a Javascript FrontEnd Developer from South African;
+      - I am a Javascript FrontEnd Developer from South Africa;
       - It started as a curious interest, developed into a hobby and is now my passion and basically consumes 90% of my time;
       
 - 🌱 I’m currently learning about nodeJS, mongoDB and graphQL. If only there was enough hours of the day to learn it all.
